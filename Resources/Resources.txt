@@ -1,0 +1,4 @@
+September 19, 2022
+URL     : https://www.youtube.com/watch?v=VFq4aeP0XWQ
+Title   : .NET Identity Scaffolding Error
+
